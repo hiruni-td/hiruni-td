@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/hiruni-thathsarani">
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=Hiruni+Thathsarani;Web%20Developer;Full+Stack+Developer;5%2B+years+of+coding+experience;Always+learning+new+tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45"
+      src="https://readme-typing-svg.herokuapp.com/?lines=Hiruni+Thathsarani;Web%20Developer;Full+Stack+Developer;;Always+learning+new+tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45"
       alt="Typing SVG"
     >
   </a>

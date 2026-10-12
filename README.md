@@ -3,8 +3,8 @@
     <img 
       src="https://de7-engine.flamingtext.com/netfu/tmp28000/flamingtext_com-31258611990.gif"
       border="0"
-      alt="Logo Design by FlamingText.com"
-      title="Logo Design by FlamingText.com"
+      alt=""
+      title="Hiruni_td"
     >
   </a>
 </h1>
